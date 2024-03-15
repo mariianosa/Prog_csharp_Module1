@@ -1,0 +1,15 @@
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.csproj.AssemblyReference.cache
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.AssemblyInfoInputs.cache
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.AssemblyInfo.cs
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.csproj.CoreCompileInputs.cache
+/Users/marianosa/Projects/csharp/module1/module1/bin/Debug/net7.0/module1
+/Users/marianosa/Projects/csharp/module1/module1/bin/Debug/net7.0/module1.deps.json
+/Users/marianosa/Projects/csharp/module1/module1/bin/Debug/net7.0/module1.runtimeconfig.json
+/Users/marianosa/Projects/csharp/module1/module1/bin/Debug/net7.0/module1.dll
+/Users/marianosa/Projects/csharp/module1/module1/bin/Debug/net7.0/module1.pdb
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.dll
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/refint/module1.dll
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.pdb
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/module1.genruntimeconfig.cache
+/Users/marianosa/Projects/csharp/module1/module1/obj/Debug/net7.0/ref/module1.dll
